@@ -1,0 +1,13 @@
+C:\Users\Xp\RustroverProjects\BevyRustGame\common\target\debug\deps\parlance-22ae43ec5193bd22.d: C:\Users\Xp\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\parlance-0.1.0\src\lib.rs C:\Users\Xp\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\parlance-0.1.0\src\bidi.rs C:\Users\Xp\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\parlance-0.1.0\src\font.rs C:\Users\Xp\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\parlance-0.1.0\src\font_family.rs C:\Users\Xp\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\parlance-0.1.0\src\generic_family.rs C:\Users\Xp\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\parlance-0.1.0\src\language.rs C:\Users\Xp\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\parlance-0.1.0\src\script.rs C:\Users\Xp\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\parlance-0.1.0\src\tag.rs C:\Users\Xp\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\parlance-0.1.0\src\text.rs
+
+C:\Users\Xp\RustroverProjects\BevyRustGame\common\target\debug\deps\libparlance-22ae43ec5193bd22.rmeta: C:\Users\Xp\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\parlance-0.1.0\src\lib.rs C:\Users\Xp\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\parlance-0.1.0\src\bidi.rs C:\Users\Xp\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\parlance-0.1.0\src\font.rs C:\Users\Xp\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\parlance-0.1.0\src\font_family.rs C:\Users\Xp\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\parlance-0.1.0\src\generic_family.rs C:\Users\Xp\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\parlance-0.1.0\src\language.rs C:\Users\Xp\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\parlance-0.1.0\src\script.rs C:\Users\Xp\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\parlance-0.1.0\src\tag.rs C:\Users\Xp\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\parlance-0.1.0\src\text.rs
+
+C:\Users\Xp\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\parlance-0.1.0\src\lib.rs:
+C:\Users\Xp\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\parlance-0.1.0\src\bidi.rs:
+C:\Users\Xp\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\parlance-0.1.0\src\font.rs:
+C:\Users\Xp\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\parlance-0.1.0\src\font_family.rs:
+C:\Users\Xp\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\parlance-0.1.0\src\generic_family.rs:
+C:\Users\Xp\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\parlance-0.1.0\src\language.rs:
+C:\Users\Xp\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\parlance-0.1.0\src\script.rs:
+C:\Users\Xp\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\parlance-0.1.0\src\tag.rs:
+C:\Users\Xp\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\parlance-0.1.0\src\text.rs:

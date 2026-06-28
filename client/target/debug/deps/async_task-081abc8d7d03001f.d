@@ -1,0 +1,11 @@
+C:\Users\Xp\RustroverProjects\BevyRustGame\client\target\debug\deps\async_task-081abc8d7d03001f.d: C:\Users\Xp\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\async-task-4.7.1\src\lib.rs C:\Users\Xp\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\async-task-4.7.1\src\header.rs C:\Users\Xp\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\async-task-4.7.1\src\raw.rs C:\Users\Xp\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\async-task-4.7.1\src\runnable.rs C:\Users\Xp\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\async-task-4.7.1\src\state.rs C:\Users\Xp\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\async-task-4.7.1\src\task.rs C:\Users\Xp\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\async-task-4.7.1\src\utils.rs
+
+C:\Users\Xp\RustroverProjects\BevyRustGame\client\target\debug\deps\libasync_task-081abc8d7d03001f.rmeta: C:\Users\Xp\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\async-task-4.7.1\src\lib.rs C:\Users\Xp\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\async-task-4.7.1\src\header.rs C:\Users\Xp\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\async-task-4.7.1\src\raw.rs C:\Users\Xp\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\async-task-4.7.1\src\runnable.rs C:\Users\Xp\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\async-task-4.7.1\src\state.rs C:\Users\Xp\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\async-task-4.7.1\src\task.rs C:\Users\Xp\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\async-task-4.7.1\src\utils.rs
+
+C:\Users\Xp\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\async-task-4.7.1\src\lib.rs:
+C:\Users\Xp\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\async-task-4.7.1\src\header.rs:
+C:\Users\Xp\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\async-task-4.7.1\src\raw.rs:
+C:\Users\Xp\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\async-task-4.7.1\src\runnable.rs:
+C:\Users\Xp\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\async-task-4.7.1\src\state.rs:
+C:\Users\Xp\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\async-task-4.7.1\src\task.rs:
+C:\Users\Xp\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\async-task-4.7.1\src\utils.rs:

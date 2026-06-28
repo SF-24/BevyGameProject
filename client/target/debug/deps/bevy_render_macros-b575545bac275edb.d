@@ -1,0 +1,9 @@
+C:\Users\Xp\RustroverProjects\BevyRustGame\client\target\debug\deps\bevy_render_macros-b575545bac275edb.d: C:\Users\Xp\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\bevy_render_macros-0.19.0\src\lib.rs C:\Users\Xp\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\bevy_render_macros-0.19.0\src\as_bind_group.rs C:\Users\Xp\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\bevy_render_macros-0.19.0\src\extract_component.rs C:\Users\Xp\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\bevy_render_macros-0.19.0\src\extract_resource.rs C:\Users\Xp\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\bevy_render_macros-0.19.0\src\specializer.rs
+
+C:\Users\Xp\RustroverProjects\BevyRustGame\client\target\debug\deps\bevy_render_macros-b575545bac275edb.dll: C:\Users\Xp\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\bevy_render_macros-0.19.0\src\lib.rs C:\Users\Xp\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\bevy_render_macros-0.19.0\src\as_bind_group.rs C:\Users\Xp\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\bevy_render_macros-0.19.0\src\extract_component.rs C:\Users\Xp\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\bevy_render_macros-0.19.0\src\extract_resource.rs C:\Users\Xp\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\bevy_render_macros-0.19.0\src\specializer.rs
+
+C:\Users\Xp\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\bevy_render_macros-0.19.0\src\lib.rs:
+C:\Users\Xp\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\bevy_render_macros-0.19.0\src\as_bind_group.rs:
+C:\Users\Xp\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\bevy_render_macros-0.19.0\src\extract_component.rs:
+C:\Users\Xp\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\bevy_render_macros-0.19.0\src\extract_resource.rs:
+C:\Users\Xp\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\bevy_render_macros-0.19.0\src\specializer.rs:

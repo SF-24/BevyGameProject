@@ -1,0 +1,10 @@
+C:\Users\Xp\RustroverProjects\BevyRustGame\client\target\debug\deps\bevy_scene_macros-88d9715fcc7ac628.d: C:\Users\Xp\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\bevy_scene_macros-0.19.0\src\lib.rs C:\Users\Xp\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\bevy_scene_macros-0.19.0\src\bsn\mod.rs C:\Users\Xp\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\bevy_scene_macros-0.19.0\src\bsn\codegen.rs C:\Users\Xp\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\bevy_scene_macros-0.19.0\src\bsn\parse.rs C:\Users\Xp\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\bevy_scene_macros-0.19.0\src\bsn\types.rs C:\Users\Xp\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\bevy_scene_macros-0.19.0\src\scene_component.rs
+
+C:\Users\Xp\RustroverProjects\BevyRustGame\client\target\debug\deps\bevy_scene_macros-88d9715fcc7ac628.dll: C:\Users\Xp\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\bevy_scene_macros-0.19.0\src\lib.rs C:\Users\Xp\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\bevy_scene_macros-0.19.0\src\bsn\mod.rs C:\Users\Xp\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\bevy_scene_macros-0.19.0\src\bsn\codegen.rs C:\Users\Xp\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\bevy_scene_macros-0.19.0\src\bsn\parse.rs C:\Users\Xp\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\bevy_scene_macros-0.19.0\src\bsn\types.rs C:\Users\Xp\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\bevy_scene_macros-0.19.0\src\scene_component.rs
+
+C:\Users\Xp\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\bevy_scene_macros-0.19.0\src\lib.rs:
+C:\Users\Xp\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\bevy_scene_macros-0.19.0\src\bsn\mod.rs:
+C:\Users\Xp\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\bevy_scene_macros-0.19.0\src\bsn\codegen.rs:
+C:\Users\Xp\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\bevy_scene_macros-0.19.0\src\bsn\parse.rs:
+C:\Users\Xp\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\bevy_scene_macros-0.19.0\src\bsn\types.rs:
+C:\Users\Xp\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\bevy_scene_macros-0.19.0\src\scene_component.rs:

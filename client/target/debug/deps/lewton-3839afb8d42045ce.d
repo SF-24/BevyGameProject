@@ -1,0 +1,13 @@
+C:\Users\Xp\RustroverProjects\BevyRustGame\client\target\debug\deps\lewton-3839afb8d42045ce.d: C:\Users\Xp\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\lewton-0.10.2\src\lib.rs C:\Users\Xp\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\lewton-0.10.2\src\header.rs C:\Users\Xp\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\lewton-0.10.2\src\header_cached.rs C:\Users\Xp\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\lewton-0.10.2\src\huffman_tree.rs C:\Users\Xp\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\lewton-0.10.2\src\imdct.rs C:\Users\Xp\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\lewton-0.10.2\src\audio.rs C:\Users\Xp\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\lewton-0.10.2\src\bitpacking.rs C:\Users\Xp\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\lewton-0.10.2\src\inside_ogg.rs C:\Users\Xp\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\lewton-0.10.2\src\samples.rs
+
+C:\Users\Xp\RustroverProjects\BevyRustGame\client\target\debug\deps\liblewton-3839afb8d42045ce.rmeta: C:\Users\Xp\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\lewton-0.10.2\src\lib.rs C:\Users\Xp\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\lewton-0.10.2\src\header.rs C:\Users\Xp\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\lewton-0.10.2\src\header_cached.rs C:\Users\Xp\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\lewton-0.10.2\src\huffman_tree.rs C:\Users\Xp\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\lewton-0.10.2\src\imdct.rs C:\Users\Xp\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\lewton-0.10.2\src\audio.rs C:\Users\Xp\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\lewton-0.10.2\src\bitpacking.rs C:\Users\Xp\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\lewton-0.10.2\src\inside_ogg.rs C:\Users\Xp\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\lewton-0.10.2\src\samples.rs
+
+C:\Users\Xp\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\lewton-0.10.2\src\lib.rs:
+C:\Users\Xp\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\lewton-0.10.2\src\header.rs:
+C:\Users\Xp\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\lewton-0.10.2\src\header_cached.rs:
+C:\Users\Xp\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\lewton-0.10.2\src\huffman_tree.rs:
+C:\Users\Xp\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\lewton-0.10.2\src\imdct.rs:
+C:\Users\Xp\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\lewton-0.10.2\src\audio.rs:
+C:\Users\Xp\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\lewton-0.10.2\src\bitpacking.rs:
+C:\Users\Xp\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\lewton-0.10.2\src\inside_ogg.rs:
+C:\Users\Xp\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\lewton-0.10.2\src\samples.rs:

@@ -1,0 +1,7 @@
+C:\Users\Xp\RustroverProjects\BevyRustGame\client\target\debug\deps\once_cell-579d22747967fe05.d: C:\Users\Xp\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\once_cell-1.21.4\src\lib.rs C:\Users\Xp\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\once_cell-1.21.4\src\imp_std.rs C:\Users\Xp\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\once_cell-1.21.4\src\race.rs
+
+C:\Users\Xp\RustroverProjects\BevyRustGame\client\target\debug\deps\libonce_cell-579d22747967fe05.rmeta: C:\Users\Xp\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\once_cell-1.21.4\src\lib.rs C:\Users\Xp\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\once_cell-1.21.4\src\imp_std.rs C:\Users\Xp\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\once_cell-1.21.4\src\race.rs
+
+C:\Users\Xp\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\once_cell-1.21.4\src\lib.rs:
+C:\Users\Xp\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\once_cell-1.21.4\src\imp_std.rs:
+C:\Users\Xp\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\once_cell-1.21.4\src\race.rs:

@@ -1,0 +1,4 @@
+enum CurrentState {
+    Playing,
+    Paused,
+}

@@ -1,0 +1,11 @@
+C:\Users\Xp\RustroverProjects\BevyRustGame\client\target\debug\deps\bevy_audio-ec5f9cffa6b9a70d.d: C:\Users\Xp\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\bevy_audio-0.19.0\src\lib.rs C:\Users\Xp\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\bevy_audio-0.19.0\src\audio.rs C:\Users\Xp\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\bevy_audio-0.19.0\src\audio_output.rs C:\Users\Xp\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\bevy_audio-0.19.0\src\audio_source.rs C:\Users\Xp\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\bevy_audio-0.19.0\src\pitch.rs C:\Users\Xp\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\bevy_audio-0.19.0\src\sinks.rs C:\Users\Xp\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\bevy_audio-0.19.0\src\volume.rs
+
+C:\Users\Xp\RustroverProjects\BevyRustGame\client\target\debug\deps\libbevy_audio-ec5f9cffa6b9a70d.rmeta: C:\Users\Xp\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\bevy_audio-0.19.0\src\lib.rs C:\Users\Xp\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\bevy_audio-0.19.0\src\audio.rs C:\Users\Xp\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\bevy_audio-0.19.0\src\audio_output.rs C:\Users\Xp\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\bevy_audio-0.19.0\src\audio_source.rs C:\Users\Xp\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\bevy_audio-0.19.0\src\pitch.rs C:\Users\Xp\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\bevy_audio-0.19.0\src\sinks.rs C:\Users\Xp\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\bevy_audio-0.19.0\src\volume.rs
+
+C:\Users\Xp\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\bevy_audio-0.19.0\src\lib.rs:
+C:\Users\Xp\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\bevy_audio-0.19.0\src\audio.rs:
+C:\Users\Xp\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\bevy_audio-0.19.0\src\audio_output.rs:
+C:\Users\Xp\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\bevy_audio-0.19.0\src\audio_source.rs:
+C:\Users\Xp\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\bevy_audio-0.19.0\src\pitch.rs:
+C:\Users\Xp\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\bevy_audio-0.19.0\src\sinks.rs:
+C:\Users\Xp\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\bevy_audio-0.19.0\src\volume.rs:
