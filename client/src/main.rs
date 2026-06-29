@@ -2,6 +2,8 @@ mod camera;
 
 use crate::camera::CameraPlugin;
 use bevy::prelude::*;
+use common::asset_loader::AssetLoaderPlugin;
+use common::asteroids::AsteroidsPlugin;
 use common::debug::*;
 use common::game_state::game_state;
 use common::movement::*;
@@ -23,10 +25,12 @@ fn main() {
             game_state(commands, is_client);
         })
         // Init the world
+        .add_plugins(AssetLoaderPlugin)
         .add_plugins(SpaceshipPlugin)
         .add_plugins(CameraPlugin)
         .add_plugins(MovementPlugin)
         .add_plugins(DebugPlugin)
         .add_plugins(DefaultPlugins)
+        .add_plugins(AsteroidsPlugin)
         .run();
 }
