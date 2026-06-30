@@ -2,6 +2,7 @@ use bevy::app::{App, Plugin, Update};
 use bevy::math::Vec3;
 use bevy::prelude::{Bundle, Component, Query, Res, Transform};
 use bevy::time::Time;
+use crate::collision_detection::Collider;
 
 // Components:
 #[derive(Component,Debug)]
@@ -21,6 +22,7 @@ impl Acceleration {pub fn new(value: Vec3) -> Self {Self { value }}}
 pub struct MovingObjectBundle {
     pub velocity: Velocity,
     pub acceleration: Acceleration,
+    pub collider: Collider,
 }
 
 // Plugin definition:
