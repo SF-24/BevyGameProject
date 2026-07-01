@@ -6,6 +6,8 @@ pub mod movement;
 pub mod asteroids;
 pub mod asset_loader;
 pub mod collision_detection;
+pub mod despawn_plugin;
+pub mod schedule;
 
 fn main() {
 }
